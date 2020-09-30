@@ -1,2 +1,3 @@
-# rajkumar_nltk
-My files in Natural Language Processing using nltk api are available here
+# rajkumar_nltk_gensim
+My files in Natural Language Processing using nltk, gensim are available here
+Some corpus collection are also available here
