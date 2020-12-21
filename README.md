@@ -1,3 +1,3 @@
-# rajkumar_nltk_gensim
-My files in Natural Language Processing using nltk, gensim are available here
+# ML-Natural Language Processing
+My files in Natural Language Processing are available here
 Some corpus collection are also available here
